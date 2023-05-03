@@ -1,6 +1,4 @@
-package domains.algorithms
-
-import kotlin.math.max
+package domains.algorithms.warmup
 
 /**
  * @link https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true

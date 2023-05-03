@@ -1,4 +1,4 @@
-package domains.algorithms
+package domains.algorithms.warmup
 
 /**
  * @link https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true

@@ -1,4 +1,4 @@
-package domains.algorithms
+package domains.algorithms.warmup
 
 fun miniMaxSum(arr: Array<Int>): Unit {
     val max = arr.max()

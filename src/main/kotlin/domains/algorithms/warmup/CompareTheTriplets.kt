@@ -1,4 +1,4 @@
-package domains.algorithms
+package domains.algorithms.warmup
 
 /**
  * @link https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true&h_r=next-challenge&h_v=zen

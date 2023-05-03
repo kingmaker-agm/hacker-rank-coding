@@ -1,4 +1,4 @@
-package domains.algorithms
+package domains.algorithms.warmup
 
 /**
  * @link https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen

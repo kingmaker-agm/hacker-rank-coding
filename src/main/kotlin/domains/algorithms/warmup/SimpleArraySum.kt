@@ -1,4 +1,4 @@
-package domains.algorithms
+package domains.algorithms.warmup
 
 /**
  * @link https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true

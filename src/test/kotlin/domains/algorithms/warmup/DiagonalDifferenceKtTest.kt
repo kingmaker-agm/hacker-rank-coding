@@ -1,4 +1,4 @@
-package domains.algorithms
+package domains.algorithms.warmup
 
 import org.junit.jupiter.api.Test
 
@@ -12,13 +12,13 @@ class DiagonalDifferenceKtTest {
             arrayOf(4,5,6),
             arrayOf(9,8,9)
         )
-        assertEquals(2, domains.algorithms.diagonalDifference(matrix1))
+        assertEquals(2, diagonalDifference(matrix1))
 
         val matrix2 = arrayOf(
             arrayOf(11, 2, 4),
             arrayOf(4, 5, 6),
             arrayOf(10, 8, -12)
         )
-        assertEquals(15, domains.algorithms.diagonalDifference(matrix2))
+        assertEquals(15, diagonalDifference(matrix2))
     }
 }
